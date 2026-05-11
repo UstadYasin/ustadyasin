@@ -1,16 +1,137 @@
-## Hi there 👋
 
-<!--
-**UstadYasin/ustadyasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Yasin
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Self-Taught+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Building+Projects+Every+Day;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class Yasin:
+    def __init__(self):
+        self.location = "Afghanistan 🇦🇫"
+        self.role = "Self-Taught Data Science Student"
+        self.learning = [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Flutter Development",
+            "Operating Systems",
+            "Information Retrieval"
+        ]
+        self.current_goal = "Become an AI Engineer"
+        self.motto = "Build. Learn. Improve. Repeat."
+
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+
+me = Yasin()
+me.say_hi()
+```
+
+---
+
+## 🧠 Current Focus
+
+* 📊 Learning Data Science deeply from scratch
+* 🤖 Building Machine Learning & Deep Learning projects
+* 🧹 Working on Persian/Dari NLP projects
+* 📱 Developing Flutter applications
+* 🐧 Exploring Linux systems and open-source tools
+* 🏆 Improving my Kaggle and GitHub profile
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php,dart,html,css" />
+</p>
+
+### 🧰 Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,bootstrap,firebase,git,github,vscode,linux" />
+</p>
+
+### 📚 Data Science & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 Farsi/Dari Toxic Detection
+
+> NLP project focused on detecting toxic comments in Farsi/Dari language.
+
+### 🏪 Shop Management App
+
+> Flutter + Firebase application for managing shop rentals and billing.
+
+### 🌍 Tourist Guide App
+
+> Advanced Flutter app for tourism and local exploration.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UstadYasin&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UstadYasin&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=UstadYasin&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Goals for 2026
+
+* ✅ Build strong Data Science portfolio
+* ✅ Contribute to open-source projects
+* 🔄 Participate actively in Kaggle competitions
+* 🔄 Master Deep Learning fundamentals
+* 🔄 Create impactful AI projects for local languages
+* 🔄 Study Computer Science abroad
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/UstadYasin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Small progress every day becomes something big." ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer" />
+
+</div>
