@@ -20,9 +20,6 @@ class Yasin:
             "Machine Learning",
             "Deep Learning",
             "Natural Language Processing",
-            "Flutter Development",
-            "Operating Systems",
-            "Information Retrieval"
         ]
         self.current_goal = "Become an AI Engineer"
         self.motto = "Build. Learn. Improve. Repeat."
@@ -40,35 +37,24 @@ me.say_hi()
 
 * 📊 Learning Data Science deeply from scratch
 * 🤖 Building Machine Learning & Deep Learning projects
-* 🧹 Working on Persian/Dari NLP projects
-* 📱 Developing Flutter applications
-* 🐧 Exploring Linux systems and open-source tools
-* 🏆 Improving my Kaggle and GitHub profile
-
+* 🧹 Working on NLP projects
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,laravel,streamlit" /> </p>
+📱 Mobile App Development
+<p> <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" /> </p>
+📊 Data Science
+<p> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn" /> </p>
+🤖 Machine Learning & Deep Learning
+<p> <img src="https://skillicons.dev/icons?i=sklearn,pytorch" /> </p>
+🧠 NLP (Natural Language Processing)
+<p> <img src="https://skillicons.dev/icons?i=python,nltk,spacy" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,dart,html,css" />
-</p>
-
-### 🧰 Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,bootstrap,firebase,git,github,vscode,linux" />
-</p>
-
-### 📚 Data Science & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
----
-
+🧰 Tools & Environment
+<p> <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,anaconda,git,github,jupyter" /> </p>
 ## 📌 Featured Projects
 
 ### 🔥 Farsi/Dari Toxic Detection
@@ -79,9 +65,9 @@ me.say_hi()
 
 > Flutter + Firebase application for managing shop rentals and billing.
 
-### 🌍 Tourist Guide App
+### 🌍 Rossman Store Sales
 
-> Advanced Flutter app for tourism and local exploration.
+> A machine learning project with 96 % accuracy and a beautifull UI using streamlit
 
 ---
 
