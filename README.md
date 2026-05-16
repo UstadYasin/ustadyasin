@@ -93,16 +93,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Goals for 2026
-
-* ✅ Build strong Data Science portfolio
-* ✅ Contribute to open-source projects
-* 🔄 Participate actively in Kaggle competitions
-* 🔄 Master Deep Learning fundamentals
-* 🔄 Create impactful AI projects for local languages
-* 🔄 Study Computer Science abroad
-
----
 
 ## 🌐 Connect With Me
 
