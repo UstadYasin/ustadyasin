@@ -24,56 +24,114 @@ class AIEngineer:
 
 me = AIEngineer()
 print(me.mission())
+```
 
 ---
 
-⚡ What I Do (Right Now)
-📊 Build end-to-end Data Science projects (real datasets, real problems)
-🤖 Train ML/DL models (classification, regression, NLP)
-🧠 Work on text intelligence (toxicity detection, NLP pipelines)
-🚀 Deploy models using Streamlit / Flask / APIs
-🧰 Tech Stack (Production Mindset)
-🧠 AI / Data Science Core
-<p> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib" /> </p>
-🌐 Backend / Web
-<p> <img src="https://skillicons.dev/icons?i=fastapi,flask,php,laravel,javascript" /> </p>
-📱 App Development
-<p> <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" /> </p>
-⚙️ Tools & DevOps Mindset
-<p> <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode,jupyter" /> </p>
-🚀 Featured Projects (Real Impact Focus)
-🧠 Farsi/Dari Toxicity Detection (NLP)
+## ⚡ What I Do
 
-Built a text classification system to detect harmful content in low-resource language datasets.
+- 📊 Build end-to-end Data Science projects  
+- 🤖 Train Machine Learning & Deep Learning models  
+- 🧠 Work on NLP systems (text classification, toxicity detection)  
+- 🚀 Deploy models using Streamlit / Flask / APIs  
 
-Stack: Python, NLP, Scikit-learn, Pandas
-Focus: Text preprocessing, classification, imbalance handling
+---
 
-🏪 Smart Shop Management System
+## 🧰 Tech Stack
 
-Full-stack Flutter + Firebase system for managing shops, bills, and rentals.
+### 🧠 AI / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,seaborn" />
+</p>
 
-Stack: Flutter, Firebase
-Focus: CRUD systems, real-time database, UI/UX design
+### 🌐 Web / Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,flask,fastapi" />
+</p>
 
-📈 Rossmann Sales Prediction
+### 📱 Mobile Apps
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+</p>
 
-End-to-end ML pipeline for forecasting retail sales.
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,jupyter,docker" />
+</p>
 
-Stack: Python, XGBoost, Pandas, Feature Engineering
-Focus: Feature engineering, model tuning, evaluation
+---
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UstadYasin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UstadYasin&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=UstadYasin&theme=tokyonight&hide_border=true" /> </div>
-🧭 Current Direction
-📌 Mastering ML fundamentals deeply (not just libraries)
-📌 Building 5–10 real-world portfolio projects
-📌 Learning deployment (FastAPI + Docker)
-📌 Preparing for remote AI/Data Science work
-🌍 Connect With Me
-<p align="center"> <a href="https://github.com/UstadYasin"> <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+## 🚀 Featured Projects
+
+### 🧠 Farsi/Dari Toxicity Detection
+NLP system for detecting toxic content in low-resource languages.
+
+**Stack:** Python, Scikit-learn, NLP, Pandas  
+**Focus:** Text preprocessing, classification, imbalance handling  
+
+---
+
+### 🏪 Shop Management App
+Flutter + Firebase system for shop rental, billing, and management.
+
+**Stack:** Flutter, Firebase  
+**Focus:** CRUD systems, real-time database, UI design  
+
+---
+
+### 📈 Rossmann Sales Prediction
+End-to-end ML pipeline for sales forecasting.
+
+**Stack:** Python, XGBoost, Pandas  
+**Focus:** Feature engineering, model tuning, evaluation  
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-⚡ "Build systems, not just models." ⚡
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer" /> </div> ```
+
+<img src="https://github-readme-stats.vercel.app/api?username=UstadYasin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UstadYasin&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=UstadYasin&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧭 Current Focus
+
+- 📌 Mastering Machine Learning fundamentals deeply  
+- 📌 Building real-world portfolio projects  
+- 📌 Learning deployment (FastAPI, Docker)  
+- 📌 Preparing for remote AI/Data Science roles  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/UstadYasin">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Build systems, not just models ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer" />
+
+</div>
+```
